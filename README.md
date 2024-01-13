@@ -1,1 +1,3 @@
-Komendy move, zoom oraz color w stronie css i html
+Prosta strona responsywna
+move, color i zoom
+przedstawiona w html i css
